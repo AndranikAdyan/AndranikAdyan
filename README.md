@@ -22,10 +22,6 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndranikAdyan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndranikAdyan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 

@@ -22,7 +22,7 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndranikAdyan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndranikAdyan&hide=Roff,Perl,TeX,GLSL,CMake,HTML,Batchfile,M4,Zig,Lua,Objective-C&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---

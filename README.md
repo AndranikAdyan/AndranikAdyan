@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Andranik</h1>
-<h3 align="center">A passionate developer and cybersecurity enthusiast from Armenia 🇦🇲</h3>
+<h1 align="center">Hi, I'm Andranik</h1>
+<h3 align="center">A developer and cybersecurity enthusiast from Armenia 🇦🇲</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFAD&center=true&vCenter=true&width=435&lines=Linux+Wizard+%F0%9F%90%9C;Python+Addict+%F0%9F%90%8D;C+Craftsman+%F0%9F%94%A5;Cybersecurity+Explorer+%F0%9F%94%93;Loves+Bash+Scripts+%F0%9F%90%B3" alt="Typing SVG" />
